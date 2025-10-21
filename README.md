@@ -1,4 +1,4 @@
-Set Splitting SAT Solver
+# Set Splitting SAT Solver
 
 ## Problem Description
 
